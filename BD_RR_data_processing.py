@@ -1,4 +1,4 @@
-from bd_random_social import main
+from BD import main
 import argparse
 from openpyxl import Workbook
 

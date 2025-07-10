@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-The **BD** program applies exact solutions for network dismantling.
+The **BD** program provides exact solutions for network dismantling.
 ---
 
 ## Repository Contents

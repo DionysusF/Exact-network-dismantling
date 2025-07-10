@@ -1,6 +1,6 @@
 import argparse
 from openpyxl import Workbook
-from bpd_based_bd import main
+from BPD_based_BD import main
 # 创建 Namespace 对象模拟 argparse 的结果
 wb = Workbook()
 ws = wb.active

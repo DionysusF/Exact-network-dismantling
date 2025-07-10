@@ -11,7 +11,7 @@ The **BD** program applies exact solutions for network dismantling.
 
 ## Repository Contents
 
-### Core Modules
+### Core files
 | Module | Description |
 |--------|------------|
 | **BD** | An exact solution algorithm for network dismantling using branch definition method |
@@ -25,5 +25,5 @@ The **BD** program applies exact solutions for network dismantling.
 | **BPD_for_dis** | BPD alforithm for dismantling. |
 
 
-### FTNMP Demo Folder
+### Social_network
 all real-world network used in this paper
